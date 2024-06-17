@@ -5,7 +5,7 @@ import Image from "next/image";
 import Animation from "../Animation/Animations";
 import Link from "next/link";
 export default function Header() {
-  // "https://dexscreener.com/base/0xabdaa3b481ccb09d787a2b7e89e855473c0905bd"
+  //
   return (
     <div className="w-full flex flex-col items-center py-10 ">
       <Animation />
@@ -23,7 +23,12 @@ export default function Header() {
             size={87}
           />
         </Link>
-        <Link href={"#"} target="_blank">
+        <Link
+          href={
+            "https://dexscreener.com/base/0xabdaa3b481ccb09d787a2b7e89e855473c0905bd"
+          }
+          target="_blank"
+        >
           <FaChartBar
             className="hover:text-white duration-700 cursor-pointer"
             size={78}
