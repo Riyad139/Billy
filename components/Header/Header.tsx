@@ -27,11 +27,12 @@ export default function Header() {
             "https://dexscreener.com/base/0xabdaa3b481ccb09d787a2b7e89e855473c0905bd"
           }
           target="_blank"
-        ></Link>
-        <BsCapsule
-          className="hover:text-white duration-700 cursor-pointer"
-          size={78}
-        />
+        >
+          <BsCapsule
+            className="hover:text-white duration-700 cursor-pointer"
+            size={78}
+          />
+        </Link>
       </nav>
       <Image
         src={"/dog.png"}
