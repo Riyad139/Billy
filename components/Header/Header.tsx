@@ -38,7 +38,7 @@ export default function Header() {
         <h1 className="text-7xl my-7 bg-[#EFF7FA] px-2 ">$BILLY</h1>
         <h1 className="text-5xl  bg-[#EFF7FA] px-2 "> on Base</h1>
         <h2 className="text-sm sm:text-4xl bg-[#EFF7FA] my-6">
-          ca: 0x681aE8E83fB47B5278133a155EDe6680f7253a8
+          ca: 0x681aE8E83fB47B5278133a155EDe6680f7253a8b
         </h2>
       </div>
     </div>
