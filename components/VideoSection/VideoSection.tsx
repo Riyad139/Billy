@@ -6,7 +6,7 @@ export default function VideoSection() {
         Xiaopang the Chinese dog
       </h3>
       <h2 className="text-sm sm:text-4xl bg-[#EFF7FA] my-6">
-        ca: 0x681aE8E83fB47B5278133a155EDe6680f7253a8b
+        ca: 000000000000000000000000000000000000000000
       </h2>
     </div>
   );
